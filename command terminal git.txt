@@ -1,0 +1,26 @@
+git commit.
+git pull
+git fetch
+git push -u origin <branch name>
+git merge <brance name>
+git branch -D <branch name>
+git init
+
+expo init = start an expo template
+
+mkdir "name" = make a new folder
+cd "name" = open a file in directory
+cd .. = go back to previous 
+cd . = current
+dir .git = git files
+rmdir /s .git = remove all git files
+git init = reinitialize git repository
+git commit = notpad +++ changes
+git status = what branch
+git diff = find what was changed from vs code
+git log = all previous commits (changes)
+git checkout "log number" = checks which commit
+git branch = find master and other branches made
+git branch -b "branch name" = add a branch
+git branch -c "branch name" = switch to a branch
+git push -u origin "branch name" = pushes a branch
